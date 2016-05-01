@@ -2,8 +2,7 @@
 /.bundle
 /.tmp
 
-# Ignore the build directory
-/build
+# Ignore the node_modules directory
 /node_modules
 
 # Ignore cache
