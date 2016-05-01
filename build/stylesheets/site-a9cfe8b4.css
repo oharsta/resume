@@ -1719,4 +1719,7 @@ section.skills .year {
   /* line 35, modules/_skills.scss */
   section.skills .year {
     width: 3px;
-    height: 3px; } }
+    height: 3px; }
+  /* line 40, modules/_skills.scss */
+  section.skills .legend span:first-child, section.skills .skill span:first-child {
+    width: 100px; } }
