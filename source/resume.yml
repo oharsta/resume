@@ -1,0 +1,146 @@
+name: Okke Harsta
+title: Full-Stack developer
+email: oharsta@zilverline.com
+birthday: March 6, 1973
+mobile: +31 6 118 601 74
+links:
+  - url: https://github.com/oharsta
+    img: github.png
+  - url: https://nl.linkedin.com/in/okkeharsta
+    img: linkedin-in-logo.png
+address:
+  street: Palmstraat 37
+  city: Utrecht
+  country: Netherlands
+description: |
+  I'm a Full-Stack software developer and experienced Agile Management consultant. I strongly belief in live long learning and I take pride in my versatility.
+passion:  My main passion is building and shipping great software.
+skills:
+  - name: Java
+    years: 16
+  - name: Scala
+    years: 6
+  - name: Ruby
+    years: 8
+  - name: JavaScript
+    years: 16
+  - name: React JS
+    years: 2
+  - name: HTML
+    years: 18
+  - name: CSS
+    years: 18
+  - name: Sass
+    years: 6
+  - name: LESS
+    years: 4
+  - name: AngularJS
+    years: 3
+  - name: React Native
+    years: 2
+  - name: Scrum & XP
+    years: 14
+  - name: Ansible
+    years: 4
+  - name: (U-Li)nix
+    years: 16
+hobbies:
+  - name: Running
+    icon: running.png
+  - name: Programming
+    icon: programming.png
+  - name: Chess
+    icon: chess.png
+stack:
+  - Spring Boot
+  - React JS
+  - SASS
+experiences:
+  - company: Zilverline
+    title: Partner
+    from: July 2010
+    until: now
+    description: Full-Stack developer, Agile management consultant and Scrum trainer.
+    technologies:
+      - Java
+      - Scala
+      - Ruby
+      - JavaScript
+      - CSS
+      - Linux
+  - company: HC
+    title: Full-Stack developer
+    from: September 2009
+    until: July 2010
+    description: Spring Boot, AngularJS, React JS, Sass. Responsible for the delivery of several audits and project assessments.
+    technologies:
+      - Java
+      - Scala
+      - Ruby
+      - JavaScript
+      - CSS
+      - Linux
+  - company: Gartner
+    title: Senior Consultant
+    from: March 2008
+    until: September 2009
+    description: IT management consultant with a special focus on helping organisations improve their overall software development effectiveness.
+    technologies:
+      - Keynote
+  - company: Xebia
+    title: Managing Consultant
+    from: March 2004
+    until: March 2008
+    description: Coding architect and senior developer on many software development projects. Early adapter of the Scrum methodology and as such acted as both Scrum Master and Agile coach.
+    technologies:
+      - Java
+      - Scala
+      - Ruby
+      - JavaScript
+      - CSS
+      - Unix
+  - company: Ordina Finance
+    title: Lead developer / Architect
+    from: February 2001
+    until: March 2004
+    description: Software developer and architect. Responsible for the architecture and delivery of custom software applications. Conducted several software audits on large web-based applications.
+    technologies:
+      - Java
+      - SQL
+      - JavaScript
+      - CSS
+      - HTML
+      - Unix
+  - company: ING
+    title: Technical Project Lead
+    from: November 1997
+    until: February 2001
+    description: Responsible for the technical delivery, customization and roll out of new features of a banking back office platform in various foreign ING branches.
+    technologies:
+      - TAL
+      - COBOL
+      - Unix
+      - TACL
+educations:
+  - name: Universiteit Utrecht
+    description: Computer Science Masters & History Masters
+    from: August 1991
+    to: November 1997
+  - name: Erasmus Gymnasium
+    description:
+    from: August 1985
+    to: July 1991
+languages:
+  - name: Dutch
+    proficiency: Native
+    visualize: full-circle
+  - name: English
+    proficiency: Excellent
+    visualize: three-quarters-circle
+  - name: German
+    proficiency: Good
+    visualize: half-circle
+  - name: French
+    proficiency: Basic
+    visualize: one-quarters-circle
+
