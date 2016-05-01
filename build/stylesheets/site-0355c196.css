@@ -1573,40 +1573,29 @@ section.experiences ul, section.education ul {
       display: inline-block;
       width: 24px;
       height: 24px;
+      border: solid 3px #bbbbbb;
       border-radius: 24px;
-      background-color: #bbbbbb;
+      background-color: white;
       position: absolute;
       top: 28px;
       left: -12px; }
-    /* line 42, modules/_experiencies.scss */
-    section.experiences ul li:after, section.education ul li:after {
-      content: '';
-      display: inline-block;
-      width: 18px;
-      height: 18px;
-      border-radius: 18px;
-      background-color: white;
-      position: absolute;
-      z-index: 99;
-      top: 31px;
-      left: -9px; }
-    /* line 55, modules/_experiencies.scss */
+    /* line 44, modules/_experiencies.scss */
     section.experiences ul li p.from-until, section.education ul li p.from-until {
       margin: 0px;
       padding: 5px 0px;
       color: #8a8a8a;
       font-style: italic; }
-    /* line 62, modules/_experiencies.scss */
+    /* line 51, modules/_experiencies.scss */
     section.experiences ul li p.company, section.education ul li p.company {
       margin: 0px;
       padding: 0px;
       font-weight: 400; }
-    /* line 68, modules/_experiencies.scss */
+    /* line 57, modules/_experiencies.scss */
     section.experiences ul li p.description, section.education ul li p.description {
       padding: 5px 0px 0px 0px;
       margin: 0px;
       color: #555555; }
-    /* line 74, modules/_experiencies.scss */
+    /* line 63, modules/_experiencies.scss */
     section.experiences ul li i, section.education ul li i {
       margin: 0px 10px;
       font-size: 12px; }
@@ -1723,3 +1712,7 @@ section.skills .year {
   /* line 40, modules/_skills.scss */
   section.skills .legend span:first-child, section.skills .skill span:first-child {
     width: 100px; } }
+
+/* line 3, modules/_statement.scss */
+section.statement div {
+  padding-right: 10px; }

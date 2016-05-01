@@ -14,6 +14,7 @@ address:
   country: Netherlands
 description: |
   I'm a Full-Stack software developer and experienced Agile Management consultant. I strongly belief in live long learning and I take pride in my versatility.
+stack : Currently my favorite stack is either a Java8 Spring Boot or Ruby Grape backend with a React JS / Sass frontend and - optionally - React Native mobile apss, Webpack & Ansible for respectively build and deployment.
 passion:  My main passion is building and shipping great software.
 skills:
   - name: Java
@@ -42,6 +43,8 @@ skills:
     years: 14
   - name: Ansible
     years: 4
+  - name: Docker
+    years: 3
   - name: (U-Li)nix
     years: 16
 hobbies:
@@ -51,16 +54,12 @@ hobbies:
     icon: programming.png
   - name: Chess
     icon: chess.png
-stack:
-  - Spring Boot
-  - React JS
-  - SASS
 experiences:
   - company: Zilverline
     title: Partner
     from: July 2010
     until: now
-    description: Full-Stack developer, Agile management consultant and Scrum trainer.
+    description: Full-Stack developer, Agile management consultant and Scrum trainer. Responsible for the delivery of several audits and project evaluations.
     technologies:
       - Java
       - Scala
@@ -73,7 +72,7 @@ experiences:
     title: Full-Stack developer
     from: September 2009
     until: July 2010
-    description: Spring Boot, AngularJS, React JS, Sass. Responsible for the delivery of several audits and project assessments.
+    description: Spring Boot, AngularJS, React JS and Sass.
     technologies:
       - Java
       - Scala
