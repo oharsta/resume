@@ -18,6 +18,8 @@ bundle exec middleman
 To build a new version:
 
 ```bash
+git checkout gh-pages
+git merge master
 bundle exec middleman build
 git add .
 git commit -am 'new release'
