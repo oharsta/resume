@@ -1715,3 +1715,8 @@ section.skills .year {
   section.skills .year {
     width: 5px;
     height: 5px; } }
+@media screen and (max-width: 400px) {
+  /* line 35, modules/_skills.scss */
+  section.skills .year {
+    width: 3px;
+    height: 3px; } }
