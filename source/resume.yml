@@ -45,8 +45,10 @@ skills:
     years: 4
   - name: Docker
     years: 3
-  - name: (U-Li)nix
+  - name: *nix
     years: 16
+  - name: Elasticsearch
+    years: 2
 hobbies:
   - name: Running
     icon: running.png
@@ -68,6 +70,7 @@ experiences:
       - Sass
       - LESS
       - Linux
+      - Elasticsearch
   - company: HC
     title: Full-Stack developer
     from: September 2009
@@ -143,4 +146,3 @@ languages:
   - name: French
     proficiency: Basic
     visualize: one-quarters-circle
-
