@@ -45,7 +45,7 @@ skills:
     years: 4
   - name: Docker
     years: 3
-  - name: *nix
+  - name: Unix-like
     years: 16
   - name: Elasticsearch
     years: 2
