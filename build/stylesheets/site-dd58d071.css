@@ -1475,7 +1475,7 @@ section.profile {
   color: #555555; }
   /* line 6, modules/_profile.scss */
   section.profile .me img {
-    width: 60px;
+    width: 70px;
     border-radius: 50%;
     margin: 10px 0px 10px 40px; }
   /* line 11, modules/_profile.scss */
@@ -1506,7 +1506,8 @@ section.profile {
       padding-top: 5px; }
     /* line 39, modules/_profile.scss */
     section.profile .address span img, section.profile .contact span img {
-      width: 30px; }
+      padding: 5px;
+      width: 45px; }
 
 /* line 1, modules/_hobbies.scss */
 .hobbies {
