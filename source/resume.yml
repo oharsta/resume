@@ -4,17 +4,17 @@ email: oharsta@zilverline.com
 birthday: March 6, 1973
 mobile: +31 6 118 601 74
 links:
-  - url: https://github.com/oharsta
-    img: github.png
   - url: https://nl.linkedin.com/in/okkeharsta
     img: linkedin-in-logo.png
+  - url: https://github.com/oharsta
+    img: github.png
 address:
   street: Palmstraat 37
   city: Utrecht
   country: Netherlands
 description: |
   I'm a Full-Stack software developer and experienced Agile Management consultant. I strongly believe in lifelong learning and I take pride in my versatility.
-stack : Currently my favorite stack is either a Java8 Spring Boot or Ruby Grape backend with a React JS / Sass frontend and - optionally - React Native mobile apss, Webpack & Ansible for respectively build and deployment.
+stack : Currently my favorite stack is either a Java8 Spring Boot, Scala spray or Ruby Grape backend with a React JS / Sass frontend and - optionally - React Native mobile apss, Webpack & Ansible for respectively build and deployment.
 passion:  My main passion is building and shipping great software.
 skills:
   - name: Java
@@ -45,10 +45,16 @@ skills:
     years: 4
   - name: Docker
     years: 3
-  - name: *nix
+  - name: Unix-like
     years: 16
   - name: Elasticsearch
     years: 2
+  - name: MongoDB
+    years: 3
+  - name: Postgres
+    years: 12
+  - name: MySQL
+    years: 11
 hobbies:
   - name: Running
     icon: running.png
@@ -71,6 +77,7 @@ experiences:
       - LESS
       - Linux
       - Elasticsearch
+      - React Native
   - company: HC
     title: Full-Stack developer
     from: September 2009
