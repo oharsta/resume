@@ -51,6 +51,8 @@ skills:
     years: 2
   - name: MongoDB
     years: 3
+  - name: NodeJS
+    years: 2
   - name: Postgres
     years: 12
   - name: MySQL
