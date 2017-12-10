@@ -15,7 +15,7 @@ bundle install --path vendor/bundle
 bundle exec middleman
 ```
 
-To build a new version for [http://oharsta.github.io/resume/build](http://oharsta.github.io/resume/build):
+To build a new version for [https://oharsta.github.io/resume/build](http://oharsta.github.io/resume/build):
 
 ```bash
 git checkout gh-pages
@@ -25,5 +25,3 @@ git add .
 git commit -am 'new release'
 git push
 ```
-
-
