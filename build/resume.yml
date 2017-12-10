@@ -18,15 +18,17 @@ stack : Currently my favorite stack is either a Java8 Spring Boot, Scala spray o
 passion:  My main passion is building and shipping great software.
 skills:
   - name: Java
-    years: 16
+    years: 17
   - name: Scala
-    years: 6
+    years: 7
   - name: Ruby
-    years: 8
+    years: 9
   - name: JavaScript
-    years: 16
-  - name: React JS
+    years: 17
+  - name: Python3
     years: 3
+  - name: React JS
+    years: 4
   - name: HTML
     years: 18
   - name: CSS
@@ -52,7 +54,7 @@ skills:
   - name: MongoDB
     years: 3
   - name: Node.js
-    years: 2
+    years: 3
   - name: Postgres
     years: 12
   - name: MySQL
