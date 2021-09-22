@@ -1,5 +1,5 @@
 name: Okke Harsta
-title: Full-Stack developer
+title: Full Stack developer
 email: oharsta@zilverline.com
 birthday: March 6, 1973
 mobile: +31 6 118 601 74
@@ -13,40 +13,40 @@ address:
   city: Utrecht
   country: Netherlands
 description: |
-  I'm a Full-Stack software developer and experienced Agile Management consultant. I strongly believe in lifelong learning and I take pride in my versatility.
-stack : Currently my favorite stack is either a Java8 Spring Boot or Ruby Grape backend with a React JS / Sass frontend and - optionally - React Native mobile apss, Webpack & Ansible for respectively build and deployment.
+  I'm a experienced Full Stack software developer and IT security consultant. I strongly believe in lifelong learning and I take pride in my versatility.
+stack : Currently my favorite stack is a Java (Spring Boot) or Python (Django or Flask) backend with a React JS / Angular / Svelte frontend and - optionally - React Native mobile aps.
 passion:  My main passion is building and shipping great software.
 skills:
   - name: Java
-    years: 16
+    years: 20
+  - name: Python
+    years: 8
   - name: Scala
     years: 6
   - name: Ruby
-    years: 8
+    years: 4
   - name: JavaScript
-    years: 16
+    years: 18
   - name: React JS
-    years: 2
+    years: 7
+  - name: AWS
+    years: 4
   - name: HTML
-    years: 18
-  - name: CSS
-    years: 18
-  - name: Sass
-    years: 6
-  - name: LESS
-    years: 4
+    years: 20
+  - name: (S)CSS
+    years: 20
   - name: AngularJS
-    years: 3
+    years: 6
   - name: React Native
-    years: 2
+    years: 5
   - name: Scrum & XP
-    years: 14
-  - name: Ansible
-    years: 4
-  - name: Docker
-    years: 3
-  - name: (U-Li)nix
     years: 16
+  - name: Ansible
+    years: 10
+  - name: Docker
+    years: 10
+  - name: (U-Li)nix
+    years: 20
 hobbies:
   - name: Running
     icon: running.png
@@ -59,24 +59,25 @@ experiences:
     title: Partner
     from: July 2010
     until: now
-    description: Full-Stack developer, Agile management consultant and Scrum trainer. Responsible for the delivery of several audits and project evaluations.
+    description: Full-Stack developer and IT security consultant. Responsible for the delivery of several audits and project evaluations.
     technologies:
       - Java
-      - Scala
+      - Python
       - Ruby
-      - JavaScript
-      - Sass
-      - LESS
+      - JavaScript (ReactJS, Angular and Svelte)
+      - SCSS
+      - AWS
+      - Ansible
+      - SCSS
       - Linux
   - company: HC
     title: Full-Stack developer
     from: September 2009
     until: July 2010
-    description: Java Stack, Rails, JavaScript and Sass.
+    description: Java Stack, Python & JavaScript.
     technologies:
       - Java
-      - Scala
-      - Ruby
+      - Python
       - JavaScript
       - Sass
       - Linux
