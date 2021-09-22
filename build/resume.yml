@@ -14,7 +14,7 @@ address:
   country: Netherlands
 description: |
   I'm a experienced Full Stack software developer and IT security consultant. I strongly believe in lifelong learning and I take pride in my versatility.
-stack : Currently my favorite stack is a Java (Spring Boot) or Python (Django or Flask) backend with a React JS / Angular / Svelte frontend and - optionally - React Native mobile aps.
+stack : Currently my favorite stack is a Java (Spring Boot) or Python (Django or Flask) backend with a React JS or Svelte frontend.
 passion:  My main passion is building and shipping great software.
 skills:
   - name: Java
@@ -27,8 +27,10 @@ skills:
     years: 4
   - name: JavaScript
     years: 18
+  - name: CI / CD
+    years: 10
   - name: React JS
-    years: 8
+    years: 7
   - name: AWS
     years: 4
   - name: HTML
@@ -44,8 +46,8 @@ skills:
   - name: Ansible
     years: 10
   - name: Docker
-    years: 6
-  - name: Unix-like
+    years: 10
+  - name: (U-Li)nix
     years: 20
   - name: Elasticsearch
     years: 3
@@ -54,9 +56,9 @@ skills:
   - name: Node.js
     years: 6
   - name: Postgres
-    years: 16
+    years: 14
   - name: MySQL
-    years: 15
+    years: 13
 hobbies:
   - name: Running
     icon: running.png
@@ -73,15 +75,14 @@ experiences:
     technologies:
       - Java
       - Python
-      - Ruby
       - JavaScript (ReactJS, Angular and Svelte)
-      - SCSS
+      - CSS / SCSS
       - AWS
       - Ansible
+      - Node
       - SCSS
       - Linux
-      - Various databases (SQL and NoSQL)
-      - React Native
+      - SQL and NoSQL databases
   - company: HC
     title: Full-Stack developer
     from: September 2009
@@ -91,8 +92,9 @@ experiences:
       - Java
       - Python
       - JavaScript
-      - Sass
+      - CSS / Sass
       - Linux
+      - SQL and NoSQL databases
   - company: Gartner
     title: Senior Consultant
     from: March 2008
@@ -156,3 +158,4 @@ languages:
   - name: French
     proficiency: Basic
     visualize: one-quarters-circle
+
