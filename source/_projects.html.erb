@@ -1,0 +1,17 @@
+<section class="projects">
+
+  <h3 class="title">Projects</h3>
+
+  <ul>
+
+    <% resume_yml.projects.each do |project| %>
+        <li>
+          <p class="from-until"><%= project.period %></p>
+          <p class="company"><%= project.name %></p>
+          <p class="description"><%= project.description %></p>
+          <p class="tools"><%= project.tools %></p>
+        </li>
+
+    <% end %>
+  </ul>
+</section>

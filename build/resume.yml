@@ -158,4 +158,84 @@ languages:
   - name: French
     proficiency: Basic
     visualize: one-quarters-circle
-
+projects:
+  - name: eduBadges
+    description: Digital certificates platform for the Dutch education community.
+    tools: Python Django, Svelte, MySQL
+    period: 2021
+  - name: Therapieland.nl
+    description: An innovative e-Health platform for healthcare professionals and patients.
+    tools: Python Django, Vue.js, Node.js, AWS, PostgreSQL
+    period: 2020
+  - name: SURF Research Access Management
+    description: Collaborating easily and securely in research services.
+    tools: Python Flask, SQLAlchemy, ReactJS, MySQL, OpenID Connect, Nginx
+    period: 2019 - 2020
+  - name: SURF eduID
+    description: SAML Identity Provider for a digital student identity that is independent of an institution.
+    tools: Java, Spring Boot, Svelte, MongoDB, Ansible
+    period: 2019
+  - name: SURF OpenID Connect Gateway
+    description: SAML-OpenID Connect Proxy for federative authentication.
+    tools: Java, Spring Boot, ReactJS, MongoDB
+    period: 2018
+  - name: SURF OpenConext deployment
+    description: Ansible-driven provisioning of the federative authentication OpenConext platform.
+    tools: Ansible, Pyhton, Docker, Apache server, HAProxy
+    period: 2014 - 2018
+  - name: Rabobank HomeCatcher
+    description: Find your dream home in a Tinder way and see what the selling opportunity of your house is.
+    tools: Java, ElasticSearch, Node.js, PhoneGap, AWS, ReactJS, Docker
+    period: 2016 - 2017
+  - name: SURF Statistics
+    description: Realtime statistics with Influxdb continuous queries
+    tools: Python Flask, Influxdb, ReactJS
+    period: 2016
+  - name: RIPE NCC Customer Portal
+    description: Manage IPV4/6 and AS registry data and have assignments automatically registered in the RIPE Database
+    tools: Scala, Angular, Node.js, MySQL
+    period: 2015 - 2016
+  - name: SURF Manage
+    description: Platform to manage and query all SAML metadata including APIs for 3rd party apps
+    tools: Java, Spring Boot, MongoDB, ReactJS
+    period: 2014 - 2018
+  - name: SURF Teams
+    description: Manage your extrenal and interal teams and memberships
+    tools: Java, Spring Boot, ReactJS, Ansible
+    period: 2014
+  - name: SURF IdP Dashboard
+    description: Dashboard for Identity Providers administrators for the OpenConext platform
+    tools: Java, ReactJS
+    period: 2014
+  - name: Reisbalans
+    description: Mobility solution platform for the business market
+    tools: Ruby, RoR, Python, MySQL, React Native, MySQL
+    period: 2011- 2013
+  - name: Scrum trainer and Agile consultant
+    description: Scrum Master & Product Owner and Agile consultancy
+    tools: Keynote
+    period: 2010- 2011
+  - name: NS travel information
+    description: The NS travel information application
+    tools: Phonegap, Java, JavaScript, ESB middleware
+    period: 2010 - 2011
+  - name: Agile management consultant
+    description: Agile consultancy
+    tools: Keynote
+    period: 2009- 2010
+  - name: TomTom
+    description: Platform for traffics APIs and management of services like traffic jams and speed camera's
+    tools: C, Java, Python, JavaScript, MySQL, ActiveMQ
+    period: 2005 - 2009
+  - name: Nationale Postcode Loterij
+    description: Generic lottery platform for various lottery brands
+    tools: Java, JavaScript, Oracle
+    period: 2003 - 2005
+  - name: ANWB
+    description: Backoffice tooling for the roadside assistance service
+    tools: Java, JavaScript, Oracle
+    period: 2001 - 2003
+  - name: ING Barings
+    description: Wholesale banking back office platform
+    tools: Atlas FX and Global Banking, Swift, Cobol, Perl
+    period: 1997 - 2001
